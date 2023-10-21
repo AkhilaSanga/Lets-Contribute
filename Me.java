@@ -1,4 +1,5 @@
 public class Me{
+<<<<<<< HEAD
     private String name;
     private String[] expertises;
     private String bio;
@@ -34,5 +35,9 @@ public class Me{
 
         Me developerBio = new Me(myName, myExpertises, myBio);
         developerBio.printInfo();
+=======
+    public static void main(String[] args){
+        System.out.println("Akhila Here!...Good Evening!");
+>>>>>>> 8ae6a269adf56fcc0d901235f3b0ac47112d1e56
     }
 }
